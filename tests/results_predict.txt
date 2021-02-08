@@ -1,0 +1,168 @@
+Probability for experimental phasing outcome: 
+Failure: 7.55 
+Success: 92.45 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 7.05 
+Success: 92.95 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 33.78 
+Success: 66.22 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 19.43 
+Success: 80.57 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 21.04 
+Success: 78.96 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 7.99 
+Success: 92.01 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 91.54 
+Success: 8.46 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 16.31 
+Success: 83.69 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 29.97 
+Success: 70.03 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 38.48 
+Success: 61.52 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 3.74 
+Success: 96.26 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 39.73 
+Success: 60.27 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 47.79 
+Success: 52.21 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 54.14 
+Success: 45.86 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 56.35 
+Success: 43.65 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 38.74 
+Success: 61.26 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 53.12 
+Success: 46.88 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 28.98 
+Success: 71.02 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 15.60 
+Success: 84.40 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 44.63 
+Success: 55.37 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 21.83 
+Success: 78.17 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 78.33 
+Success: 21.67 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 56.03 
+Success: 43.97 
+Predicted class after applying threshold 80.00% for class 1: [0] 
+********************************************************************************
+Probability for experimental phasing outcome: 
+Failure: 9.21 
+Success: 90.79 
+Predicted class after applying threshold 80.00% for class 1: [1] 
+********************************************************************************
+X=[8.1940e+01 1.2870e+00 7.0600e-01 1.4340e+00 7.0000e-02 3.8429e+00], Predicted=1 
+X=[82.25    1.297   0.437   1.277   0.088   0.4993], Predicted=1 
+X=[8.3020e+01 1.0830e+00 2.6600e-01 9.3100e-01 7.9000e-02 3.3758e+00], Predicted=1 
+X=[8.3410e+01 9.0700e-01 2.9800e-01 7.2700e-01 7.9000e-02 3.8438e+00], Predicted=1 
+X=[8.2960e+01 1.1370e+00 3.5900e-01 1.0040e+00 7.2000e-02 3.8438e+00], Predicted=1 
+X=[80.89    1.21    0.593   1.171   0.101   3.8404], Predicted=1 
+X=[ 3.332e+01  7.280e-01 -1.170e-01  6.460e-01  1.700e-02  4.992e-01], Predicted=0 
+X=[66.68    0.728   0.239   0.892   0.107   1.6591], Predicted=1 
+X=[1.01690e+02 8.64000e-01 4.80000e-02 6.81000e-01 6.20000e-02 1.01965e+01], Predicted=1 
+X=[1.03180e+02 7.09000e-01 3.77000e-01 5.09000e-01 3.40000e-02 1.00586e+01], Predicted=1 
+X=[1.02760e+02 8.99000e-01 3.50000e-02 7.08000e-01 1.38000e-01 1.00586e+01], Predicted=1 
+X=[1.04720e+02 9.02000e-01 1.65000e-01 7.61000e-01 4.40000e-02 1.00081e+01], Predicted=1 
+X=[51.12    1.387   0.398   1.115   0.059   2.5787], Predicted=1 
+X=[52.61    0.89   -0.192   0.678   0.061   2.5787], Predicted=0 
+X=[ 5.0600e+01  9.0200e-01 -4.4000e-02  7.4600e-01  6.0000e-02  2.5787e+00], Predicted=0 
+X=[42.69    0.853  -0.045   0.627   0.07    2.5787], Predicted=1 
+X=[7.2070e+01 9.2200e-01 4.9000e-02 7.5300e-01 6.2000e-02 3.2005e+00], Predicted=0 
+X=[80.83    0.926  -0.208   0.647   0.201   3.2005], Predicted=1 
+X=[58.25    0.789  -0.53    0.553   0.105   3.2005], Predicted=1 
+X=[5.5140e+01 9.3900e-01 4.2000e-02 7.7100e-01 8.5000e-02 3.2005e+00], Predicted=1 
+X=[ 6.8750e+01  8.6800e-01 -2.2000e-02  6.2200e-01  1.3000e-01  3.2005e+00], Predicted=1 
+X=[8.7970e+01 1.0110e+00 3.0700e-01 9.0800e-01 4.3000e-02 1.1494e+00], Predicted=0 
+X=[8.7970e+01 1.2870e+00 4.1700e-01 1.1240e+00 3.0000e-02 1.1494e+00], Predicted=0 
+X=[66.5     0.969   0.703   1.039   0.127   1.1494], Predicted=1 
+X=[8.1940e+01 1.2870e+00 7.0600e-01 1.4340e+00 7.0000e-02 3.8429e+00], Predicted=[0.07549766 0.92450234] 
+X=[82.25    1.297   0.437   1.277   0.088   0.4993], Predicted=[0.07045145 0.92954855] 
+X=[8.3020e+01 1.0830e+00 2.6600e-01 9.3100e-01 7.9000e-02 3.3758e+00], Predicted=[0.33775662 0.66224338] 
+X=[8.3410e+01 9.0700e-01 2.9800e-01 7.2700e-01 7.9000e-02 3.8438e+00], Predicted=[0.19431767 0.80568233] 
+X=[8.2960e+01 1.1370e+00 3.5900e-01 1.0040e+00 7.2000e-02 3.8438e+00], Predicted=[0.21043258 0.78956742] 
+X=[80.89    1.21    0.593   1.171   0.101   3.8404], Predicted=[0.07993246 0.92006754] 
+X=[ 3.332e+01  7.280e-01 -1.170e-01  6.460e-01  1.700e-02  4.992e-01], Predicted=[0.91537982 0.08462018] 
+X=[66.68    0.728   0.239   0.892   0.107   1.6591], Predicted=[0.16305216 0.83694784] 
+X=[1.01690e+02 8.64000e-01 4.80000e-02 6.81000e-01 6.20000e-02 1.01965e+01], Predicted=[0.29966376 0.70033624] 
+X=[1.03180e+02 7.09000e-01 3.77000e-01 5.09000e-01 3.40000e-02 1.00586e+01], Predicted=[0.38475489 0.61524511] 
+X=[1.02760e+02 8.99000e-01 3.50000e-02 7.08000e-01 1.38000e-01 1.00586e+01], Predicted=[0.03738177 0.96261823] 
+X=[1.04720e+02 9.02000e-01 1.65000e-01 7.61000e-01 4.40000e-02 1.00081e+01], Predicted=[0.3973281 0.6026719] 
+X=[51.12    1.387   0.398   1.115   0.059   2.5787], Predicted=[0.47785385 0.52214615] 
+X=[52.61    0.89   -0.192   0.678   0.061   2.5787], Predicted=[0.54137977 0.45862023] 
+X=[ 5.0600e+01  9.0200e-01 -4.4000e-02  7.4600e-01  6.0000e-02  2.5787e+00], Predicted=[0.56348921 0.43651079] 
+X=[42.69    0.853  -0.045   0.627   0.07    2.5787], Predicted=[0.38741656 0.61258344] 
+X=[7.2070e+01 9.2200e-01 4.9000e-02 7.5300e-01 6.2000e-02 3.2005e+00], Predicted=[0.53118183 0.46881817] 
+X=[80.83    0.926  -0.208   0.647   0.201   3.2005], Predicted=[0.28975585 0.71024415] 
+X=[58.25    0.789  -0.53    0.553   0.105   3.2005], Predicted=[0.15596694 0.84403306] 
+X=[5.5140e+01 9.3900e-01 4.2000e-02 7.7100e-01 8.5000e-02 3.2005e+00], Predicted=[0.4462807 0.5537193] 
+X=[ 6.8750e+01  8.6800e-01 -2.2000e-02  6.2200e-01  1.3000e-01  3.2005e+00], Predicted=[0.21826013 0.78173987] 
+X=[8.7970e+01 1.0110e+00 3.0700e-01 9.0800e-01 4.3000e-02 1.1494e+00], Predicted=[0.7833489 0.2166511] 
+X=[8.7970e+01 1.2870e+00 4.1700e-01 1.1240e+00 3.0000e-02 1.1494e+00], Predicted=[0.56027038 0.43972962] 
+X=[66.5     0.969   0.703   1.039   0.127   1.1494], Predicted=[0.09213159 0.90786841] 
