@@ -5,17 +5,31 @@ import sys
 
 
 def probability_type(arg):
-    """Type function for argparse - a float within some predefined bounds"""
+    """Type function for argparse.
+
+    Args:
+        arg: An object convertible to float in the range [0,1].
+
+    Returns:
+        The converted float in the range [0,1].
+
+    Raises:
+        argparse.ArgumentTypeError: An error occurred converting the argument
+          to float in the range [0,1].
+    """
+
     try:
         f = float(arg)
     except ValueError:
         raise argparse.ArgumentTypeError("Must be a floating point number in [0,1]")
     if f < 0.0 or f > 1.0:
-        raise argparse.ArgumentTypeError("Argument must be < 1.0 and > 0.0")
+        raise argparse.ArgumentTypeError("Argument must be between 0.0 and 1.0")
     return f
 
 
 def main():
+    """Entry point function for the metrix_predict program."""
+
     parser = argparse.ArgumentParser(
         description="Predict experimental phasing success."
     )
